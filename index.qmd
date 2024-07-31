@@ -4,6 +4,8 @@ title: "web-test"
 
 This is a Quarto website test instance.
 
+There is a coda.
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
